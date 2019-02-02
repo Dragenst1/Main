@@ -1,0 +1,8 @@
+Material ID:
+  Circuit_Component
+Recipe:
+  Copper_Wire (x2)
+  Solder_Plate (x1)
+Misc:
+  Used to make circuits.
+    ie: Circuit_Basic / Circuit_Advanced / Circuit_Compact
